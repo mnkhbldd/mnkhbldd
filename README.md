@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  !https://github.com/user-attachments/assets/d4b483cd-8627-4731-b8be-cb157dc0c293
+
+  ![gif](https://github.com/user-attachments/assets/a9285b0f-b08d-4a7a-9dce-14958498c46d)
 
 </p>
 
