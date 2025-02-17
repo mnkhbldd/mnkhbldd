@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  ![Dark Simple and Modern Artificial Intelligence and Coding Youtube Thumbnail](https://github.com/user-attachments/assets/d49ebb22-693f-448e-8714-a90a885e7f3c)
+  ![gif](https://github.com/user-attachments/assets/d4b483cd-8627-4731-b8be-cb157dc0c293)
+
 </p>
 
 <h1 align="center"> Hi, I'm Munkhbold 👋</h1>
