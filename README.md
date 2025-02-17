@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://yourimageurl.com/banner.png" width="800">
+  <img src="https://imgur.com/a/TurS5dg" width="800">
 </p>
 
 <h1 align="center"> Hi, I'm Munkhbold 👋</h1>
