@@ -18,7 +18,7 @@
 ### 📲 Connect With Me
 <p align="center">
   <a href="https://instagram.com/mnkhbldd">
-    <img src="https://img.shields.io/instagram/follow/yourhandle?style=social" alt="Twitter">
+    <img src="https://img.shields.io/instagram/follow/yourhandle?style=social" alt="Instagram">
   </a>
   <a href="https://github.com/mnkhbldd">
     <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub">
