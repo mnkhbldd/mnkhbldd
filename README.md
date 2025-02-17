@@ -1,5 +1,6 @@
 <!-- Banner -->
 <p align="center">
+  ![gif](https://github.com/user-attachments/assets/70e45761-1bf5-4833-8fc4-b411b1748e3a)
   <img src="https://github.com/user-attachments/assets/a9285b0f-b08d-4a7a-9dce-14958498c46d.gif" width="800">
 </p>
 
@@ -32,7 +33,6 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mnkhbldd&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnkhbldd&theme=dark" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkhbldd&layout=compact&theme=dark" width="400">
 </p>
 
