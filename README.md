@@ -19,12 +19,13 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/mnkhbldd">
-    <img src="https://img.shields.io/badge/Github%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://discord.gg/AjMsq4p4xu">
-    <img src="https://img.shields.io/discord/yourdiscordid?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
+
 
 ---
 
