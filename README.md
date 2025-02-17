@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  ![gif](https://github.com/user-attachments/assets/d4b483cd-8627-4731-b8be-cb157dc0c293)
+  !https://github.com/user-attachments/assets/d4b483cd-8627-4731-b8be-cb157dc0c293
 
 </p>
 
