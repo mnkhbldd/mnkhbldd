@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @mnkhbldd
-- 👀 I’m interested in: AI
-- 🌱 I’m currently learning: FULLSTACK DEVELOPER
-- 📫 How to reach me: DISCORD #LEVOCKA
-- 🕷️ What can I do: I'm new to front-end development. Also a digital artist and 3D model maker.
+# Welcome to My Profile
+# My name is Munkhbold
+**Bold text** and *Italic text*
 
 <!---
 mnkhbldd/mnkhbldd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
