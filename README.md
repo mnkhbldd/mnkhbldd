@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://imgur.com/a/TurS5dg" width="800">
+
+
+  https://github.com/user-attachments/assets/6908aaaf-58f3-4cc9-82f9-3093ef93076e
+
+
 </p>
 
 <h1 align="center"> Hi, I'm Munkhbold 👋</h1>
