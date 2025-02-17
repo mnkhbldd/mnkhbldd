@@ -39,18 +39,6 @@
 
 ---
 
-### 🚀 My Top Open Source Projects
-<p align="center">
-  <a href="https://github.com/mnkhbldd/Project1">
-    <img src="https://img.shields.io/github/stars/mnkhbldd/Project1?style=social" alt="Project 1">
-  </a>
-  <a href="https://github.com/mnkhbldd/Project2">
-    <img src="https://img.shields.io/github/stars/mnkhbldd/Project2?style=social" alt="Project 2">
-  </a>
-</p>
-
----
-
 ### 🛠️ Skills
 - **Languages:** JavaScript
 - **Frameworks:** React, Next.js, Node.js
