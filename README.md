@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+
  ![gif](https://github.com/user-attachments/assets/39f24701-14e7-4076-b753-a8a6d24605e9)
-</p>
+
 
 <h1 align="center"> Hi, I'm Munkhbold 👋</h1>
 <p align="center">
