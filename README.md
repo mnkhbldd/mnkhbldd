@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/mnkhbldd">
-    <img src="https://img.shields.io/github/followers/mnkhbldd?style=social" alt="GitHub">
+    <img src="https://img.shields.io/badge/Github%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Github">
   </a>
   <a href="https://discord.gg/AjMsq4p4xu">
     <img src="https://img.shields.io/discord/yourdiscordid?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Discord">
