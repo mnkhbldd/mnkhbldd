@@ -6,7 +6,7 @@
 ---
 
 ### 👦 About Me
-I am a **Software Engineer** and **Instructor at Pinecone Academy**, where I help developers master the full stack. Beyond the terminal, I am a **Digital Artist** crafting isometric worlds in Blender and a **Game Modder** developing custom LUA systems for FiveM.
+I am a **Software Engineer** and **Instructor at Pinecone Academy**. Beyond the terminal, I am a **Digital Artist** crafting isometric worlds in Blender/Photoshop and a **Game Modder** developing custom LUA systems for FiveM.
 
 * 👨‍🏫 **Teaching:** Mentoring students in modern web architectures at Pinecone Academy.
 * 🎨 **3D Art:** Creating detailed isometric environments and digital portraits.
