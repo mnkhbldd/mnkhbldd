@@ -17,8 +17,8 @@ I am a **Software Engineer** and **Instructor at Pinecone Academy**, where I hel
 ### 🛠️ Tech Stack
 | Techs |
 | :---: | :---: | :---: |
-|(https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma,blender)](https://skillicons.dev)|
-|(https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,aws,cloudflare,git,docker)](https://skillicons.dev)|
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma,blender)](https://skillicons.dev)|
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,aws,cloudflare,git,docker)](https://skillicons.dev)|
 
 ---
 
