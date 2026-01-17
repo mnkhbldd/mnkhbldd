@@ -1,54 +1,18 @@
-<!-- Banner -->
+# Hey Everyone! I'm [mnkhbldd](https://github.com/mnkhbldd)
+<br><br>
 
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/mnkhbldd">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/mnkhbldd">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@mnkhbldd">
+  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/munkhbold.tsegmed.56/">
+  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<br><br>
 
-<h1 align="center"> Hi, I'm Munkhbold 👋</h1>
-<p align="center">
-  🎮 Gamer | 👨‍💻 Developer | 🎨 DigitalArtist | ✏️ 3DModelMaker <br>
-  I specialize in Blender, Photoshop, and also FiveM scripts. <br>
-  Currently learning full-stack development using JavaScript, Next.js, and more... <br>
-  Passionate about creating awesome projects and contributing to open source.
-</p>
-
----
-
-### 📲 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/mnkhbldd">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/mnkhbldd">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://discord.gg/AjMsq4p4xu">
-    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
-
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnkhbldd&show_icons=true&theme=dark" width="400">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkhbldd&layout=compact&theme=dark" width="400">
-</p>
-
-
----
-
-### 🛠️ Skills
-- **Languages:** JavaScript
-- **Frameworks:** React, Next.js, Node.js
-- **Learning:** Currently learning more of ☝️☝️
-
----
-
-### 🎮 Gaming & Fun
-- I love playing **Arena Breakout: Infinite** 🎯
-- Catch me streaming on **YouTube** 🎥  
-- Join my **Discord Community** 🚀
-
----
-
-🔗 **Check out my work:** [GitHub](https://github.com/mnkhbldd) | [Website](https://yourwebsite.com)
+https://skillicons.dev/icons?i=js,html,css,java,nginx,react,idea,bootstrap,vscode,mysql,linux,md,github,bash,vim,figma,jquery,tailwind,ts,nestjs,regex,sass,nextjs,prisma,nodejs,mongodb) 
