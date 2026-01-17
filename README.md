@@ -16,8 +16,8 @@ I am a **Software Engineer** and **Instructor at Pinecone Academy**, where I hel
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma,blender)]
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,aws,cloudflare,git,docker)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma,blender)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,aws,cloudflare,git,docker)
 
 ---
 
@@ -40,20 +40,32 @@ I am a **Software Engineer** and **Instructor at Pinecone Academy**, where I hel
 ---
 
 ### 🔥 GitHub Stats
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mnkhbldd&show_icons=true&theme=tokyonight">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=mnkhbldd&show_icons=true&theme=default">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkhbldd&layout=compact&theme=tokyonight">
-  <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkhbldd&layout=compact&theme=default">
-</picture>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=mnkhbldd&show_icons=true&theme=tokyonight" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mnkhbldd&show_icons=true&theme=default"
+      height="180"
+      alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkhbldd&layout=compact&theme=tokyonight" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkhbldd&layout=compact&theme=default"
+      height="180"
+      alt="Top Languages" />
+  </picture>
+</div>
+
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="mailto:mnkhbldd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mnkhbldd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mnkhbldd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/munkhbold.tsegmed.56/"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=whites" /></a>
 </p>
