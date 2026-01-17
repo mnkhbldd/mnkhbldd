@@ -29,7 +29,7 @@ I am a **Software Engineer** and **Instructor at Pinecone Academy**, where I hel
 
 | Gaming Room | Cyberpunk Bedroom | Stylized Coffee Shop |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/mnkhbldd/mnkhbldd/main/image_e3a4a3.jpg" width="250"> | <img src="https://raw.githubusercontent.com/mnkhbldd/mnkhbldd/main/image_e3a469.jpg" width="250"> | <img src="https://raw.githubusercontent.com/mnkhbldd/mnkhbldd/main/image_e3a4e9.jpg" width="250"> |
+|<img src="6.jpg" width="250"> | <img src="5.jpg" width="250"> | <img src="7.jpg" width="250"> |
 
 ---
 
@@ -37,7 +37,7 @@ I am a **Software Engineer** and **Instructor at Pinecone Academy**, where I hel
 *A glimpse into my digital painting and character design work.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mnkhbldd/mnkhbldd/main/image_e3a4c3.jpg" width="800" alt="Art Grid">
+  <img src="1.jpg" width="800" alt="Art Grid">
 </p>
 
 ---
