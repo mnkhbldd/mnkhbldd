@@ -16,8 +16,8 @@ I am a **Software Engineer** and **Instructor at Pinecone Academy**. Beyond the 
 
 ### Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,figma,blender)
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,aws,cloudflare,git,docker)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,react,nextjs,typescript,tailwind,figma,blender)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,aws,cloudflare,git,expo)
 
 ---
 
